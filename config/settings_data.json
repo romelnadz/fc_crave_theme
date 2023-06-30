@@ -137,12 +137,12 @@
     "color_schemes": {
       "background-1": {
         "settings": {
-          "background": "#f2efdd",
+          "background": "#ffffff",
           "background_gradient": "",
-          "text": "#3d081b",
-          "button": "#910f3f",
-          "button_label": "#f2efdd",
-          "secondary_button_label": "#3d081b",
+          "text": "#334155",
+          "button": "#bf1901",
+          "button_label": "#ffffff",
+          "secondary_button_label": "#475569",
           "shadow": "#3d081b"
         }
       },
